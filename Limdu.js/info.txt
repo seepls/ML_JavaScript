@@ -1,0 +1,7 @@
+ML framework for Node.js 
+Binary classification
+Multi-label classification
+Feature engineering
+SVM
+
+installed limdu !!
